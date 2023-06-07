@@ -1,0 +1,4 @@
+enum TransactionTypes {
+  INCOME,
+  EXPENSE
+}
